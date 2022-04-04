@@ -1,0 +1,7 @@
+name: FRPName
+main: frpn.main.spgerg.Main
+version: 1.0
+
+commands:
+  changename:
+    usage: /<command>
